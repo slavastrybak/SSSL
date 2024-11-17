@@ -9,8 +9,11 @@ Wazuh indexer
 ![image](https://github.com/user-attachments/assets/f5b63c60-79f7-4df0-90f5-a7279143d127)
 ![image](https://github.com/user-attachments/assets/65f86904-fb19-44d6-b815-7c6410442956)
 Wazuh server
-
+![image](https://github.com/user-attachments/assets/0a5ce4dc-2e67-4eab-893c-45470bf37143)
 Wazuh dashboard
+![image](https://github.com/user-attachments/assets/62844523-1284-429b-8bdd-6dcf734556bd)
+![image](https://github.com/user-attachments/assets/a109b0b6-5175-4d10-95f0-74b680adced8)
+
 ## 4) Подключите агента используя документацию 
 ## 5) Убедившись, что агент установлен, зайдите на веб-интерфейс сервера wazuh и изучите предлагаемые пункты меню сканирования ресурса, доступные из коробки. Проанализируйте обнаруженные уязвимости. 
 ## 6) Создайте проверку целостности файлов. 
