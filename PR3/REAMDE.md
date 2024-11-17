@@ -17,6 +17,7 @@ Wazuh dashboard
 ## 4) Подключите агента используя документацию
 ![image](https://github.com/user-attachments/assets/390a8bfa-e2e3-4367-915e-460889c59bf2)
 ![image](https://github.com/user-attachments/assets/0812406e-c8d1-476b-8cd1-a93c14e2bf46)
+![image](https://github.com/user-attachments/assets/20779a01-f450-4295-b6e0-ada06c000a80)
 
 ## 5) Убедившись, что агент установлен, зайдите на веб-интерфейс сервера wazuh и изучите предлагаемые пункты меню сканирования ресурса, доступные из коробки. Проанализируйте обнаруженные уязвимости. 
 ## 6) Создайте проверку целостности файлов. 
