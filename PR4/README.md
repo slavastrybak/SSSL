@@ -23,6 +23,9 @@
 ![image](https://github.com/user-attachments/assets/462224cf-a64f-4339-92c0-140cc5f10c93)
 ![image](https://github.com/user-attachments/assets/fc735fa4-474d-4ecc-8149-04b3f2f0a366)
 ![image](https://github.com/user-attachments/assets/8b82106f-2144-46b5-acde-289cf6721e3e)
+![image](https://github.com/user-attachments/assets/415abda6-8863-4014-8b92-dc6f225b59a3)
+![image](https://github.com/user-attachments/assets/db418ee7-bba0-4ece-9d1d-fd2d9f69e1ba)
+### Вывод
 
 # lab2
 # lab3
