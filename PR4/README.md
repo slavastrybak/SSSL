@@ -17,6 +17,12 @@
 ### Внесем последние 5 записей в safelist
 ![image](https://github.com/user-attachments/assets/375947f9-75bc-4f20-a5af-bd9fe37ea866)
 ![image](https://github.com/user-attachments/assets/7da54cc8-fc75-48f3-b482-c24dd20cd5ac)
+### Длительные подключения
+![image](https://github.com/user-attachments/assets/cfb70364-aa85-436a-ad4e-f672372c8e91)
+![image](https://github.com/user-attachments/assets/7d1f4dbd-42ff-4f1b-af83-e18e9370a625)
+![image](https://github.com/user-attachments/assets/462224cf-a64f-4339-92c0-140cc5f10c93)
+![image](https://github.com/user-attachments/assets/fc735fa4-474d-4ecc-8149-04b3f2f0a366)
+![image](https://github.com/user-attachments/assets/8b82106f-2144-46b5-acde-289cf6721e3e)
 
 # lab2
 # lab3
