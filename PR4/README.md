@@ -48,8 +48,11 @@
 ![image](https://github.com/user-attachments/assets/78e7682e-95b6-46b6-a659-44c01cb4910a)
 Недопустимое имя домена Skype
 ![image](https://github.com/user-attachments/assets/6c61a18b-af37-423f-bdcf-7366b733a58c)
+Гистограммы показывают сигнатуру beacon
 ![image](https://github.com/user-attachments/assets/2bfb58b3-1b1b-4c7f-9844-caeb45111d49)
 ![image](https://github.com/user-attachments/assets/6be8b47b-236e-4146-8b88-faf9356c4566)
+VirusTotal показывает плохие результаты
 ![image](https://github.com/user-attachments/assets/22cb7bbd-f287-46a8-b0c0-fa309241e90a)
+В долгих подключениях отображаются не внесенные в безопасный список подключения
 ![image](https://github.com/user-attachments/assets/79122327-61e0-4b8b-a13e-89aa7f426087)
 
