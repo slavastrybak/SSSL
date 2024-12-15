@@ -33,8 +33,8 @@
 ![image](https://github.com/user-attachments/assets/50daa1f6-8722-48e4-91ff-5868abab248d)
 ![image](https://github.com/user-attachments/assets/bf33f054-ab56-4fd7-a598-05466b2118ea)
 
- 3. Подготовить отчет со скриншотами о проделанной работе и выявленных
- инцидентах каждым из классов защиты.
+ 3. Сработанные правила.
+    Запуск Nikto
 ![image](https://github.com/user-attachments/assets/0168c310-4098-4949-9deb-b1662f8be657)
 ![image](https://github.com/user-attachments/assets/d450a478-bf67-43cd-9c21-96c8b1b79c19)
 
