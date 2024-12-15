@@ -7,19 +7,28 @@
 ![image](https://github.com/user-attachments/assets/fe717574-5920-4e4c-8bb0-04639e0d1d00)
 
 2.2 IDS/IPS (Snort/Suricata),   
-![image](https://github.com/user-attachments/assets/1c529169-6851-481d-9252-160ff8a8f27f)
+Добавление репозитория сурикаты  
+![image](https://github.com/user-attachments/assets/1c529169-6851-481d-9252-160ff8a8f27f)  
+Установка и обновление сурикаты  
 ![image](https://github.com/user-attachments/assets/1951e052-85f5-47b0-909d-68b42ca0a779)
-![image](https://github.com/user-attachments/assets/07465b0e-ad02-4d2e-aaf8-c7b965ee36ac)
-![image](https://github.com/user-attachments/assets/6c061be7-7c61-4c5b-8ab2-20dca87207d8)
-![image](https://github.com/user-attachments/assets/d9cb88b0-b4c8-49b3-889b-e1ad464334f5)
-![image](https://github.com/user-attachments/assets/ffd6ca00-22a8-4c95-a3e1-dac4ee37d308)
+![image](https://github.com/user-attachments/assets/07465b0e-ad02-4d2e-aaf8-c7b965ee36ac)  
+Редактирование конфига  
+![image](https://github.com/user-attachments/assets/6c061be7-7c61-4c5b-8ab2-20dca87207d8)  
+Добавление директории логов сурикаты в Wazuh
+![image](https://github.com/user-attachments/assets/d9cb88b0-b4c8-49b3-889b-e1ad464334f5)  
+Перезагрузка агента  
+![image](https://github.com/user-attachments/assets/ffd6ca00-22a8-4c95-a3e1-dac4ee37d308)  
 
 2.3 ThreatHuntingTools (Zeek/YARA).  
+Установка Yara  
 ![image](https://github.com/user-attachments/assets/85a525da-779f-4ccc-a013-2abdd46fa894)
-![image](https://github.com/user-attachments/assets/e51e75aa-0dd3-4609-a3d7-dec8b21f332b)
-![image](https://github.com/user-attachments/assets/000c8fcf-1b1e-40b4-8afd-317e6d8d2de4)
+![image](https://github.com/user-attachments/assets/e51e75aa-0dd3-4609-a3d7-dec8b21f332b)  
+Подгрузка правил   
+![image](https://github.com/user-attachments/assets/000c8fcf-1b1e-40b4-8afd-317e6d8d2de4)  
+Создание .sh файла и настройка доступа к нему
 ![image](https://github.com/user-attachments/assets/d9ed274c-d1c2-40be-bad7-36564ccb8973)
-![image](https://github.com/user-attachments/assets/78e4035b-0133-4eea-8f52-2384c5bdb84b)
+![image](https://github.com/user-attachments/assets/78e4035b-0133-4eea-8f52-2384c5bdb84b)  
+Добавление правил в Wazuh и создание декодеров
 ![image](https://github.com/user-attachments/assets/d96cc712-52fa-44d2-bd7c-7b79196f2921)
 ![image](https://github.com/user-attachments/assets/50daa1f6-8722-48e4-91ff-5868abab248d)
 ![image](https://github.com/user-attachments/assets/bf33f054-ab56-4fd7-a598-05466b2118ea)
