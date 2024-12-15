@@ -28,3 +28,4 @@
  4. Подготовить отчет со скриншотами о проделанной работе и выявленных
  инцидентах каждым из классов защиты.
 ![image](https://github.com/user-attachments/assets/0168c310-4098-4949-9deb-b1662f8be657)
+![image](https://github.com/user-attachments/assets/64c86086-9687-474a-a9e6-b4246e25feff)
