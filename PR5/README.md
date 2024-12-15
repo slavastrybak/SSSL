@@ -1,5 +1,5 @@
  1. Собрать стенд по заданию
-Стенд состоит из двух ВМ, используемых в ПЗ3 и ВМ с kali linux      
+Стенд состоит из двух ВМ, используемых в ПЗ #3 и ВМ с kali linux      
  2. Развернуть СЗИ (на выбор) по одному из каждого класса:  
 2.1 SIEM (Wazuh/DSIEM),  
 ![image](https://github.com/user-attachments/assets/fe717574-5920-4e4c-8bb0-04639e0d1d00)
@@ -12,10 +12,7 @@
 ![image](https://github.com/user-attachments/assets/d9cb88b0-b4c8-49b3-889b-e1ad464334f5)
 ![image](https://github.com/user-attachments/assets/ffd6ca00-22a8-4c95-a3e1-dac4ee37d308)
 
-2.3 Scanner (OpenVAS/Nessus),  
-![image](https://github.com/user-attachments/assets/96270d07-bd46-4b74-b617-05b49e51125e)
-
-2.4 ThreatHuntingTools (Zeek/YARA).  
+2.3 ThreatHuntingTools (Zeek/YARA).  
 ![image](https://github.com/user-attachments/assets/85a525da-779f-4ccc-a013-2abdd46fa894)
 ![image](https://github.com/user-attachments/assets/e51e75aa-0dd3-4609-a3d7-dec8b21f332b)
 ![image](https://github.com/user-attachments/assets/000c8fcf-1b1e-40b4-8afd-317e6d8d2de4)
@@ -25,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/50daa1f6-8722-48e4-91ff-5868abab248d)
 ![image](https://github.com/user-attachments/assets/bf33f054-ab56-4fd7-a598-05466b2118ea)
 
- 4. Подготовить отчет со скриншотами о проделанной работе и выявленных
+ 3. Подготовить отчет со скриншотами о проделанной работе и выявленных
  инцидентах каждым из классов защиты.
 ![image](https://github.com/user-attachments/assets/0168c310-4098-4949-9deb-b1662f8be657)
 ![image](https://github.com/user-attachments/assets/64c86086-9687-474a-a9e6-b4246e25feff)
