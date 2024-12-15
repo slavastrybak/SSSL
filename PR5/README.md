@@ -13,6 +13,8 @@
 ![image](https://github.com/user-attachments/assets/ffd6ca00-22a8-4c95-a3e1-dac4ee37d308)
 
 2.3 Scanner (OpenVAS/Nessus),  
+![image](https://github.com/user-attachments/assets/96270d07-bd46-4b74-b617-05b49e51125e)
+
 2.4 ThreatHuntingTools (Zeek/YARA).  
 ![image](https://github.com/user-attachments/assets/85a525da-779f-4ccc-a013-2abdd46fa894)
 ![image](https://github.com/user-attachments/assets/e51e75aa-0dd3-4609-a3d7-dec8b21f332b)
@@ -25,3 +27,4 @@
 
  4. Подготовить отчет со скриншотами о проделанной работе и выявленных
  инцидентах каждым из классов защиты.
+![image](https://github.com/user-attachments/assets/0168c310-4098-4949-9deb-b1662f8be657)
