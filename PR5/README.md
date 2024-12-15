@@ -19,6 +19,9 @@
 ![image](https://github.com/user-attachments/assets/000c8fcf-1b1e-40b4-8afd-317e6d8d2de4)
 ![image](https://github.com/user-attachments/assets/d9ed274c-d1c2-40be-bad7-36564ccb8973)
 ![image](https://github.com/user-attachments/assets/78e4035b-0133-4eea-8f52-2384c5bdb84b)
+![image](https://github.com/user-attachments/assets/d96cc712-52fa-44d2-bd7c-7b79196f2921)
+![image](https://github.com/user-attachments/assets/50daa1f6-8722-48e4-91ff-5868abab248d)
+![image](https://github.com/user-attachments/assets/bf33f054-ab56-4fd7-a598-05466b2118ea)
 
  4. Подготовить отчет со скриншотами о проделанной работе и выявленных
  инцидентах каждым из классов защиты.
