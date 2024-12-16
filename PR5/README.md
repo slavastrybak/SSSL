@@ -34,7 +34,7 @@
 ![image](https://github.com/user-attachments/assets/bf33f054-ab56-4fd7-a598-05466b2118ea)
 
  3. Сработанные правила.
-    Запуск Nikto
+    Запуск Nuclei
 ![image](https://github.com/user-attachments/assets/0168c310-4098-4949-9deb-b1662f8be657)
 ![image](https://github.com/user-attachments/assets/d450a478-bf67-43cd-9c21-96c8b1b79c19)
 
